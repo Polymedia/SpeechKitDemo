@@ -85,7 +85,7 @@ bool SpeechKitService::parseSpeechRecognitionResult(const QString &response, QSt
     QString recognitionResult;
 
     // Confidence can be less than zero, so use the smallest value of Int32
-    double maxConfidence = -2147483647;
+    double maxConfidence = INT32_MIN;
 
     while (!xml.atEnd() && !xml.hasError()) {
         QXmlStreamReader::TokenType token = xml.readNext();
