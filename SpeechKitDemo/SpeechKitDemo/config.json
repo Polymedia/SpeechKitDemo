@@ -1,0 +1,264 @@
+{
+    "dashboards": [
+        {
+            "aliases": [
+                {
+                    "morpholized": "обращение гражданин",
+                    "original": "обращения граждан"
+                },
+                {
+                    "morpholized": "общественный приемная",
+                    "original": "общественная приемная"
+                }
+            ],
+            "name": "Обращения граждан",
+            "url": "http://192.168.46.140/society/obrashcheniya-grazhdan/obrashcheniya-grazhdan/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "сми",
+                    "original": "Сми"
+                },
+                {
+                    "morpholized": "пресса",
+                    "original": "пресса"
+                },
+                {
+                    "morpholized": "дайджест",
+                    "original": "дайджест"
+                },
+                {
+                    "morpholized": "средство массовый информация",
+                    "original": "средства массовой информации"
+                }
+            ],
+            "name": "Анализ СМИ",
+            "url": "http://192.168.46.140/society/analiz-smi/analiz-smi/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "общественный мнение",
+                    "original": "Общественное мнение"
+                },
+                {
+                    "morpholized": "опрос",
+                    "original": "опрос"
+                },
+                {
+                    "morpholized": "социология",
+                    "original": "социология"
+                },
+                {
+                    "morpholized": "социологический исследование",
+                    "original": "социологическое исследование"
+                }
+            ],
+            "name": "Опросы",
+            "url": "http://192.168.46.140/society/oprosy-obshchestvennogo-mneniya/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "целевой показатель",
+                    "original": "Целевые показатели"
+                },
+                {
+                    "morpholized": "целевой индикатор",
+                    "original": "целевые индикаторы"
+                },
+                {
+                    "morpholized": "ключевой показатель",
+                    "original": "ключевые показатели"
+                },
+                {
+                    "morpholized": "ключевой индикатор",
+                    "original": "ключевые индикаторы"
+                }
+            ],
+            "name": "Целевые показатели",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/makroekonomika/tselevye-pokazateli/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "физический объем",
+                    "original": "Физический объем"
+                },
+                {
+                    "morpholized": "индекс врп",
+                    "original": "индекс ВРП"
+                },
+                {
+                    "morpholized": "физический объем валовой региональный продукт",
+                    "original": "физический объем валового регионального продукта"
+                },
+                {
+                    "morpholized": "индекс валовой региональный продукт",
+                    "original": "индекс валового регионального продукта"
+                }
+            ],
+            "name": "ИФО ВРП",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/makroekonomika/ifo-vrp/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "прогноз врп",
+                    "original": "Прогноз ВРП"
+                },
+                {
+                    "morpholized": "прогноз валовой региональный продукт",
+                    "original": "прогноз валового регионального продукта"
+                }
+            ],
+            "name": "Прогноз по ВРП",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/makroekonomika/prognoz-po-vrp/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "промышленный производство",
+                    "original": "Промышленное производство"
+                },
+                {
+                    "morpholized": "индекс промышленность",
+                    "original": "индекс промышленности"
+                },
+                {
+                    "morpholized": "отрасль промышленность",
+                    "original": "отрасли промышленности"
+                }
+            ],
+            "name": "Индексы промышленного производства",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/proizvodstvo/indeksy-promshlennogo-proizvodstva/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "грузоперевозка",
+                    "original": "Грузоперевозки"
+                },
+                {
+                    "morpholized": "логистика",
+                    "original": "логистика"
+                },
+                {
+                    "morpholized": "транспорт",
+                    "original": "транспорт"
+                }
+            ],
+            "name": "Грузоперевозки",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/transport-i-svyaz/gruzoperevozki2/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "безработица",
+                    "original": "Безработица"
+                }
+            ],
+            "name": "Уровень безработицы",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/rynok-truda/uroven-bezrabotitsy/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "занятость",
+                    "original": "Занятость"
+                },
+                {
+                    "morpholized": "рынок труд",
+                    "original": "рынок труда"
+                }
+            ],
+            "name": "Занятость населения",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/rynok-truda/zanyatost-naseleniya/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "прожиточный минимум",
+                    "original": "Прожиточный минимум"
+                }
+            ],
+            "name": "Прожиточный минимум",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/sotsialnaya-sfera/velichina-prozhitochnogo-minimuma/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "электроэнергия",
+                    "original": "Электроэнергия"
+                }
+            ],
+            "name": "Электроэнергия",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/zhkkh/vyrabotka-i-potreblenie-elektroenergii/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "календарь событие",
+                    "original": "Календарь событий"
+                },
+                {
+                    "morpholized": "событие партия",
+                    "original": "события партии"
+                },
+                {
+                    "morpholized": "мероприятие",
+                    "original": "мероприятия"
+                }
+            ],
+            "name": "Календарь событий",
+            "url": "http://192.168.46.140/deyatelnost-partii/kalendar-sobytiy/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "поручение",
+                    "original": "Поручения"
+                }
+            ],
+            "name": "Поручения",
+            "url": "http://192.168.46.140/deyatelnost-partii/ispolnenie-porucheniy/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "паспорт регион",
+                    "original": "Паспорт региона"
+                }
+            ],
+            "name": "Паспорт региона",
+            "url": "http://192.168.46.140/deyatelnost-partii/pasport-regiona/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "проект",
+                    "original": "Проекты"
+                },
+                {
+                    "morpholized": "программа",
+                    "original": "программы"
+                }
+            ],
+            "name": "Проекты и программы",
+            "url": "http://192.168.46.140/investitsionnye-proekty-i-stroitelnye-obekty/"
+        },
+        {
+            "aliases": [
+                {
+                    "morpholized": "инвестиция",
+                    "original": "Инвестиции"
+                }
+            ],
+            "name": "Инвестиции в основной капитал",
+            "url": "http://192.168.46.140/monitoring-klyuchevykh-pokazateley/investitsii-i-razvitie/investitsii-v-osnovnoy-kapital/"
+        }
+    ],
+    "language": "ru",
+    "version": "1.0.0.0"
+}

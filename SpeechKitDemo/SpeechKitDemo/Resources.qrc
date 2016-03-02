@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingsView.qml</file>
+        <file>SpeechView.qml</file>
+        <file>DashboardEditView.qml</file>
+        <file>DashboardListView.qml</file>
+        <file>EditFieldForm.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="mic_ready">Resources/mic_ready.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file alias="ru">SpeechKitDemo_ru.qm</file>
+    </qresource>
+    <qresource prefix="/defaults">
+        <file>config.json</file>
+    </qresource>
+</RCC>
